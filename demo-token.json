@@ -1,0 +1,7 @@
+{
+  "name": "Demo Token",
+  "symbol": "DEMO",
+  "description": "Development test token for Solana Devnet.",
+  "image": "",
+  "external_url": "https://www.google.com"
+}

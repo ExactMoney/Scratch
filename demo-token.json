@@ -2,11 +2,11 @@
   "name": "REAL NAME",
   "symbol": "REAL SYMBOL",
   "description": "Real description",
-  "image": "https://...",
+  "image": "https://realwebsite.com/wp-content/uploads/2022/09/rw-logo-2021.png",
   "external_url": "https://realwebsite.com",
   "extensions": {
     "website": "https://realwebsite.com",
-    "twitter": "https://x.com/...",
-    "telegram": "https://t.me/..."
+    "twitter": "https://x.com/123",
+    "telegram": "https://t.me/123"
   }
 }

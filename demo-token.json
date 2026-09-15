@@ -1,7 +1,12 @@
 {
-  "name": "Demo Token",
-  "symbol": "DEMO",
-  "description": "Development test token for Solana Devnet.",
-  "image": "",
-  "external_url": "https://www.google.com"
+  "name": "REAL NAME",
+  "symbol": "REAL SYMBOL",
+  "description": "Real description",
+  "image": "https://...",
+  "external_url": "https://realwebsite.com",
+  "extensions": {
+    "website": "https://realwebsite.com",
+    "twitter": "https://x.com/...",
+    "telegram": "https://t.me/..."
+  }
 }
